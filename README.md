@@ -5,7 +5,7 @@
 
 ![Lable](https://img.shields.io/badge/Learning-Android-orange)
 ![Lable](https://img.shields.io/badge/Speaking-Chinese-blue)
-![Lable](https://img.shields.io/badge/Speaking-BaseEnglish-blue)
+![Lable](https://img.shields.io/badge/Speaking-BasicEnglish-blue)
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leasses&theme=tokyonight&show_icons=true)](https://github.com/leasses)
